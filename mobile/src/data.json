@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "name": "Filet e Folhas",
+    "rate": null,
+    "tips": 1,
+    "created_at": "2020-02-05 14:02:43",
+    "updated_at": "2020-02-05 14:02:43",
+    "address": {
+      "id": 1,
+      "restaurant_id": 1,
+      "address": "Rua do Ouvidor",
+      "address_details": "nº 104",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brasil",
+      "zip_code": "20040-002",
+      "created_at": "2020-02-05 14:02:47",
+      "updated_at": "2020-02-05 14:02:47"
+    }
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "name": "Veredictum",
+    "rate": null,
+    "tips": 1,
+    "created_at": "2020-02-07 14:36:30",
+    "updated_at": "2020-02-07 14:36:30",
+    "address": {
+      "id": 5,
+      "restaurant_id": 2,
+      "address": "Travessa do Ouvidor",
+      "address_details": "nº 25",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brasil",
+      "zip_code": null,
+      "created_at": "2020-02-07 14:51:45",
+      "updated_at": "2020-02-07 14:51:45"
+    }
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "name": "Salt Grill",
+    "rate": null,
+    "tips": 1,
+    "created_at": "2020-02-07 14:47:40",
+    "updated_at": "2020-02-07 14:48:46",
+    "address": {
+      "id": 4,
+      "restaurant_id": 3,
+      "address": "Rua do Ouvidor",
+      "address_details": "nº 77",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brasil",
+      "zip_code": null,
+      "created_at": "2020-02-07 14:51:16",
+      "updated_at": "2020-02-07 14:51:16"
+    }
+  }
+]
