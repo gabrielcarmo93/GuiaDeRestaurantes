@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import api from '../../services/api'
 
+import { SafeAreaConsumer } from 'react-native-safe-area-context'
 import { Container, Text } from './styles'
 import { View } from 'react-native'
 import Restaurant from './comps/Restaurant'
