@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "expo": "~36.0.0",
     "moment": "^2.24.0",
-    "react": "^0.0.0-241c4467e",
+    "react": "^0.14.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-safe-area-context": "^0.6.4",
