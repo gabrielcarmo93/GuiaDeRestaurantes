@@ -12,7 +12,7 @@
     "@react-navigation/native": "^5.0.0",
     "axios": "^0.19.2",
     "expo": "~36.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^0.0.0-241c4467e",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
